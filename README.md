@@ -4,8 +4,8 @@ Let's read together.
 ## Book Lists
 |book name|author|progress|
 |---------|------|--------|
-|Discrete Mathematics with Applications|Susanna S. Epp|![alt 属性文本](https://avatars0.githubusercontent.com/u/7627381?v=4&s=16) ![alt 属性文本](https://avatars0.githubusercontent.com/u/7627381?v=4&s=16)
-|
+|Discrete Mathematics with Applications|Susanna S. Epp|![alt 属性文本](https://avatars0.githubusercontent.com/u/7627381?v=4&s=12) 18/871 ![alt 属性文本](https://avatars0.githubusercontent.com/u/7627381?v=4&s=12) 18/871
+
 
 
 
